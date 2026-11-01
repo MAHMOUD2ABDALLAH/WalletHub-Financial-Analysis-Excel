@@ -300,5 +300,3 @@ WalletHub-Case-Study/
 
 ### Any Questions
 **Mahmoud_Abdallah20@outlook.com**
-
-<img width="100" height="100" alt="WalletHub" src="./WalletHub.svg" />
