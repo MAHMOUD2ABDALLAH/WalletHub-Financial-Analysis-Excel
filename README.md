@@ -301,4 +301,4 @@ WalletHub-Case-Study/
 ### Any Questions
 **Mahmoud_Abdallah20@outlook.com**
 
-<img width="350" height="200" alt="WalletHub" src="https://github.com/user-attachments/assets/c8b122a5-40c3-4194-945b-8192119ee162" />
+<img width="100" height="100" alt="WalletHub" src="./WalletHub.svg" />
