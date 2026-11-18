@@ -1,4 +1,4 @@
-# WalletHub Case Study - Data Analyst Assessment
+# WalletHub Case Study - Data Analyst
 
 ## Project Overview
 
